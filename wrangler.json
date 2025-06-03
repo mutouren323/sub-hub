@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "sub-hub",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7a112396-15e9-4d73-9e2c-cb0b91461200",
+      "database_name": "sub-hub"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
